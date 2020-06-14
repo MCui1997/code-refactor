@@ -24,7 +24,6 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 
-Website Link:
+Website Link: https://mcui1997.github.io/Code-Refractor/
 
-Screenshot:
 
