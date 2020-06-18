@@ -1,4 +1,4 @@
-# HW1: Code Refractor Assignment 
+# Code Refractor Assignment 
 
 Description: The purpose of this assigment was to clean up the existing code for a html webpage. The webpage must meet these following standards.
 
