@@ -1,4 +1,4 @@
-# Code Refractor Assignment 
+# Code Refactor Assignment 
 
 Description: The purpose of this assigment was to clean up the existing code for a html webpage. The webpage must meet these following standards.
 
